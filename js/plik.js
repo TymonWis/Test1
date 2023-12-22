@@ -1,1 +1,1 @@
-const test = "hhhhh"
+const test = 420
